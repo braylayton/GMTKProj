@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GMTKGameJam",
+			"Path": "C:\\Unreal\\Projects\\GMTKProj\\GMTKGameJam\\Source\\GMTKGameJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GMTKGameJamEditor",
+			"Path": "C:\\Unreal\\Projects\\GMTKProj\\GMTKGameJam\\Source\\GMTKGameJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

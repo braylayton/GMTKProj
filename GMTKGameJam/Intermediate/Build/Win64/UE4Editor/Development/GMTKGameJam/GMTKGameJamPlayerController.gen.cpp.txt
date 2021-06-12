@@ -1,5 +1,0 @@
-C:\Unreal\Projects\GMTKProj\GMTKGameJam\Intermediate\Build\Win64\UE4Editor\Development\GMTKGameJam\Definitions.GMTKGameJam.h
-C:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Unreal\Projects\GMTKProj\GMTKGameJam\Source\GMTKGameJam/GMTKGameJamPlayerController.h
-C:\Unreal\Projects\GMTKProj\GMTKGameJam\Intermediate\Build\Win64\UE4Editor\Inc\GMTKGameJam\GMTKGameJamPlayerController.generated.h
